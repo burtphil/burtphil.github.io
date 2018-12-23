@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Philipp Burt - personal website</title>
-    <link>/tags/</link>
+    <link>https://burtphil.github.io/tags/</link>
     <description>Recent content in Tags on Philipp Burt - personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://burtphil.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Academic</title>
-      <link>/tags/academic/</link>
+      <link>https://burtphil.github.io/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>https://burtphil.github.io/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>https://burtphil.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>https://burtphil.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/tags/demo/</link>
+      <link>https://burtphil.github.io/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>https://burtphil.github.io/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jupyter</title>
-      <link>/tags/jupyter/</link>
+      <link>https://burtphil.github.io/tags/jupyter/</link>
       <pubDate>Wed, 16 Aug 2017 17:20:04 -0700</pubDate>
       
-      <guid>/tags/jupyter/</guid>
+      <guid>https://burtphil.github.io/tags/jupyter/</guid>
       <description></description>
     </item>
     

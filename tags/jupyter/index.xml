@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jupyter on Philipp Burt - personal website</title>
-    <link>/tags/jupyter/</link>
+    <link>https://burtphil.github.io/tags/jupyter/</link>
     <description>Recent content in jupyter on Philipp Burt - personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 16 Aug 2017 17:20:04 -0700</lastBuildDate>
     
-	<atom:link href="/tags/jupyter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://burtphil.github.io/tags/jupyter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>jupyter notebook</title>
-      <link>/project/jupyter/jupyter/</link>
+      <link>https://burtphil.github.io/project/jupyter/jupyter/</link>
       <pubDate>Wed, 16 Aug 2017 17:20:04 -0700</pubDate>
       
-      <guid>/project/jupyter/jupyter/</guid>
+      <guid>https://burtphil.github.io/project/jupyter/jupyter/</guid>
       <description>test  /*! * * Twitter Bootstrap * */ /*! * Bootstrap v3.3.7 (http://getbootstrap.com) * Copyright 2011-2016 Twitter, Inc. * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */ /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */ html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; } body { margin: 0; } article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; } audio, canvas, progress, video { display: inline-block; vertical-align: baseline; } audio:not([controls]) { display: none; height: 0; } [hidden], template { display: none; } a { background-color: transparent; } a:active, a:hover { outline: 0; } abbr[title] { border-bottom: 1px dotted; } b, strong { font-weight: bold; } dfn { font-style: italic; } h1 { font-size: 2em; margin: 0.</description>
     </item>
     
